@@ -1,0 +1,27 @@
+*{
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    color: #cfd6e1
+}
+
+.rounded-circle{
+    font-size: 24px;
+    width: 1.25em;
+    height: 1.75em;
+    font-family: 'Font Awesome 5 Brands';
+    border-color: #2d343f !important;
+}
+
+#subscribeEmail::placeholder{
+    color: gray
+}
+
+.btn-success{
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.border-gray{
+    border-color: gray;
+}
